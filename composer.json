@@ -1,5 +1,5 @@
 {
-    "name": "yogi721/base-module",
+    "name": "yogi721/BaseModule",
     "description": "a sample module(skeleton module) for use with [zend-mvc]applications.",
     "type": "sub-module",
     "minimum-stability": "dev",
