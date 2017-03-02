@@ -1,7 +1,14 @@
 {
-    "name": "yogi721/BaseModule",
-    "description": "a sample module(skeleton module) for use with [zend-mvc]applications.",
-    "type": "sub-module",
+    "name": "yogi721/base-module",
+    "description": "no description",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mane first",
+            "email": "name@walou.com"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {}
 }
